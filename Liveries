@@ -14,6 +14,13 @@
                     ],
                     "credits": "Tide Pods"
                 },
+{
+                    "name": "Air Vancouver Normal Livery",
+"texture": [
+            
+                        "https://i.ibb.co/RT42dc7R/A350.jpg"
+                    ],
+                    "credits": "Tide Pods"
             ],
             "labels": [
                 "Texture"
