@@ -1,0 +1,108 @@
+{
+  "name": "Air Vancouver",
+  "color": "",
+  "bgcolor": "",
+  "aircrafts": {
+    "2973": {
+      "name": "Airbus a350-1000",
+      "liveries": [
+        {
+          "name": "Air Vancouver( The Queen of West Vancouver)",
+          "texture": [
+            "https://i.ibb.co/zTp3kcpd/C-FZLM.jpg"
+          ],
+          "credits": "Tide Pods"
+        },
+        {
+          "name": "Air Vancouver Normal Livery",
+          "texture": [
+            "https://i.ibb.co/RT42dc7R/A350.jpg"
+          ],
+          "credits": "Tide Pods"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3575": {
+      "name": "Boeing b787-9",
+      "liveries": [
+        {
+          "name": "Air Vancouver Normal Livery",
+          "texture": [
+            "https://i.ibb.co/C5XD9w8q/C-FSVB.png"
+          ],
+          "credits": "Tide Pods"
+        },
+        {
+          "name": "Air Vancouver (Visit Vancouver)",
+          "texture": [
+            "https://i.ibb.co/B5rTfWsR/C-FPMG-11.png"
+          ],
+          "credits": "Tide Pods"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "3534": {
+      "name": "Airbus a320-214",
+      "liveries": [
+        {
+          "name": "Air Vancouver Normal Livery",
+          "texture": [
+            "https://i.ibb.co/39Bn90jw/A320-1.png"
+          ],
+          "credits": "Tide Pods"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "247": {
+      "name": "Bombardier Dash8-q400",
+      "liveries": [
+        {
+          "name": "Air Vancouver Express",
+          "texture": [
+            "https://i.ibb.co/MxS2LLwc/Your-paragraph-text.png"
+          ],
+          "credits": "Tide Pods"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2892": {
+      "name": "SAAB 340",
+      "liveries": [
+        {
+          "name": "Air Vancouver Express",
+          "texture": [
+            "https://i.ibb.co/CstQpD5g/Regional-1.png"
+          ],
+          "credits": "Tide Pods"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
+    "2856": {
+      "name": "Airbus a330-200",
+      "liveries": [
+        {
+          "name": "Air Vancouver Normal Livery",
+          "texture": [
+            "https://i.ibb.co/cKYmytLz/Air-Vancouver-A330-200-10.png"
+          ],
+          "credits": "Tide Pods"
+        },
+        {
+          "name": "Air Vancouver(2010 Olympics)",
+          "texture": [
+            "https://i.ibb.co/JWZq0Y4Q/Air-Vancouver-A330-200-C-F
