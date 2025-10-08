@@ -42,6 +42,13 @@
           ],
           "credits": "Tide Pods"
         }
+{
+          "name": "Air Vancouver (Queen Elizabeth Park Livery)",
+          "texture": [
+            "https://i.ibb.co/8nCM62jy/C-FSVJ.png"
+          ],
+          "credits": "Tide Pods"
+        },
       ],
       "labels": [
         "Texture"
