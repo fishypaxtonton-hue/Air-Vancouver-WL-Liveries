@@ -1,10 +1,11 @@
 {
   "name": "Air Vancouver",
-  "color": "",
-  "bgcolor": "",
+  "color": "#0A3D62",
+  "bgcolor": "#E6F2FA",
   "aircrafts": {
     "2973": {
       "name": "Airbus A350-1000",
+      "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver (The Queen of West Vancouver)",
@@ -20,11 +21,11 @@
           ],
           "credits": "Tide Pods"
         }
-      ],
-      "labels": ["Texture"]
+      ]
     },
     "3575": {
       "name": "Boeing 787-9",
+      "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver Normal Livery",
@@ -40,11 +41,11 @@
           ],
           "credits": "Tide Pods"
         }
-      ],
-      "labels": ["Texture"]
+      ]
     },
     "3534": {
       "name": "Airbus A320-214",
+      "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver Normal Livery",
@@ -60,11 +61,11 @@
           ],
           "credits": "Tide Pods"
         }
-      ],
-      "labels": ["Texture"]
+      ]
     },
     "247": {
       "name": "Bombardier Dash 8-Q400",
+      "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver Express",
@@ -73,11 +74,11 @@
           ],
           "credits": "Tide Pods"
         }
-      ],
-      "labels": ["Texture"]
+      ]
     },
     "2892": {
       "name": "SAAB 340",
+      "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver Express",
@@ -86,11 +87,11 @@
           ],
           "credits": "Tide Pods"
         }
-      ],
-      "labels": ["Texture"]
+      ]
     },
     "2856": {
       "name": "Airbus A330-200",
+      "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver Normal Livery",
@@ -113,21 +114,18 @@
           ],
           "credits": "Tide Pods"
         }
-      ],
-      "labels": ["Texture"]
+      ]
     },
     "24": {
       "name": "Airbus A350-900",
+      "labels": ["Texture", "Specular shader"],
       "liveries": [
         {
           "name": "Cathay Pacific (The Heroic Kowloon)",
           "texture": [
             "https://i.ibb.co/nNy6W7QQ/B-LQC.png"
           ],
-          "labels": [
-            "Specular shader",
-            "Texture"
-          ]
+          "credits": "Tide Pods"
         }
       ]
     }
