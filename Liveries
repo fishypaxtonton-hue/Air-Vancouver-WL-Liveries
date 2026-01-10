@@ -127,6 +127,14 @@
             "https://i.ibb.co/RLpqWb3/B-LQC-1.png"
           ],
           "credits": "Tide Pods"
+        },
+{
+          "name": "Cathay Pacific (Lettuce Sandwich)",
+          "texture": [
+            "/models/aircraft/premium/a350/specular.jpg",
+            "https://i.ibb.co/vCWK2znd/059456-12.png"
+          ],
+          "credits": "Tide Pods"
         }
       ]
     }
