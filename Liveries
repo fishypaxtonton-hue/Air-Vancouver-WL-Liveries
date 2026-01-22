@@ -9,113 +9,97 @@
       "liveries": [
         {
           "name": "Air Vancouver (The Queen of West Vancouver)",
-          "texture": [
-            "https://i.ibb.co/zTp3kcpd/C-FZLM.jpg"
-          ],
+          "texture": ["https://i.ibb.co/zTp3kcpd/C-FZLM.jpg"],
           "credits": "Tide Pods"
         },
         {
           "name": "Air Vancouver Normal Livery",
-          "texture": [
-            "https://i.ibb.co/RT42dc7R/A350.jpg"
-          ],
+          "texture": ["https://i.ibb.co/RT42dc7R/A350.jpg"],
           "credits": "Tide Pods"
         }
       ]
     },
+
     "3575": {
       "name": "Boeing 787-9",
       "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver Normal Livery",
-          "texture": [
-            "https://i.ibb.co/C5XD9w8q/C-FSVB.png"
-          ],
+          "texture": ["https://i.ibb.co/C5XD9w8q/C-FSVB.png"],
           "credits": "Tide Pods"
         },
         {
           "name": "Air Vancouver (Visit Vancouver)",
-          "texture": [
-            "https://i.ibb.co/B5rTfWsR/C-FPMG-11.png"
-          ],
+          "texture": ["https://i.ibb.co/B5rTfWsR/C-FPMG-11.png"],
           "credits": "Tide Pods"
         }
       ]
     },
+
     "3534": {
       "name": "Airbus A320-214",
       "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver Normal Livery",
-          "texture": [
-            "https://i.ibb.co/39Bn90jw/A320-1.png"
-          ],
+          "texture": ["https://i.ibb.co/39Bn90jw/A320-1.png"],
           "credits": "Tide Pods"
         },
         {
           "name": "Air Vancouver (BC Childrens Hospital Livery)",
-          "texture": [
-            "https://i.ibb.co/9mxWQ2j6/C-FOBK.png"
-          ],
+          "texture": ["https://i.ibb.co/9mxWQ2j6/C-FOBK.png"],
           "credits": "Tide Pods"
         }
       ]
     },
+
     "247": {
       "name": "Bombardier Dash 8-Q400",
       "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver Express",
-          "texture": [
-            "https://i.ibb.co/MxS2LLwc/Your-paragraph-text.png"
-          ],
+          "texture": ["https://i.ibb.co/MxS2LLwc/Your-paragraph-text.png"],
           "credits": "Tide Pods"
         }
       ]
     },
+
     "2892": {
       "name": "SAAB 340",
       "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver Express",
-          "texture": [
-            "https://i.ibb.co/CstQpD5g/Regional-1.png"
-          ],
+          "texture": ["https://i.ibb.co/CstQpD5g/Regional-1.png"],
           "credits": "Tide Pods"
         }
       ]
     },
+
     "2856": {
       "name": "Airbus A330-200",
       "labels": ["Texture"],
       "liveries": [
         {
           "name": "Air Vancouver Normal Livery",
-          "texture": [
-            "https://i.ibb.co/cKYmytLz/Air-Vancouver-A330-200-10.png"
-          ],
+          "texture": ["https://i.ibb.co/cKYmytLz/Air-Vancouver-A330-200-10.png"],
           "credits": "Tide Pods"
         },
         {
           "name": "Cathay Pacific",
-          "texture": [
-            "https://i.ibb.co/ds0NRnYz/B-HLL-2048-x-2048-px-4098-x-4098-px-4096-x-4096-px-5.png"
-          ],
+          "texture": ["https://i.ibb.co/ds0NRnYz/B-HLL-2048-x-2048-px-4098-x-4098-px-4096-x-4096-px-5.png"],
           "credits": "Tide Pods"
         },
         {
           "name": "Air Vancouver (2010 Olympics)",
-          "texture": [
-            "https://i.ibb.co/JWZq0Y4Q/Air-Vancouver-A330-200-C-F.png"
-          ],
+          "texture": ["https://i.ibb.co/JWZq0Y4Q/Air-Vancouver-A330-200-C-F.png"],
           "credits": "Tide Pods"
         }
       ]
     },
+
     "24": {
       "name": "Airbus A350-900",
       "labels": ["Texture", "Specular shader"],
@@ -128,11 +112,26 @@
           ],
           "credits": "Tide Pods"
         },
-{
+        {
           "name": "Cathay Pacific (Lettuce Sandwich)",
           "texture": [
             "/models/aircraft/premium/a350/specular.jpg",
             "https://i.ibb.co/vCWK2znd/059456-12.png"
+          ],
+          "credits": "Tide Pods"
+        }
+      ]
+    },
+
+    "25": {
+      "name": "Boeing 777-300ER",
+      "labels": ["Texture", "Specular shader"],
+      "liveries": [
+        {
+          "name": "Default Livery",
+          "texture": [
+            "/models/aircraft/premium/777_300/specular_0.jpg",
+            "https://i.ibb.co/HTgB4YGQ/10.png"
           ],
           "credits": "Tide Pods"
         }
