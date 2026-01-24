@@ -136,6 +136,18 @@
           "credits": "Tide Pods"
         }
       ]
+    },
+
+    "5551": {
+      "name": "Comac C919",
+      "labels": ["Texture"],
+      "liveries": [
+        {
+          "name": "Alaska C919",
+          "texture": ["https://i.ibb.co/Q7NYLP9b/C919-2.png"],
+          "credits": "Tide Pods"
+        }
+      ]
     }
   }
 }
