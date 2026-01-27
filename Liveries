@@ -134,7 +134,15 @@
             "https://i.ibb.co/99nzVLQ8/B-KQI.png"
           ],
           "credits": "Tide Pods"
-        }
+        },
+        {
+          "name": "Ex-Emirates (B-KRA)",
+          "texture": [
+            "/models/aircraft/premium/777_300/specular_0.jpg",
+            "https://i.ibb.co/gk62Tkb/14.png"
+          ],
+          "credits": "Tide Pods"
+        },
       ]
     },
 
