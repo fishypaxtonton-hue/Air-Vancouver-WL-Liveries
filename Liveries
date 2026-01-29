@@ -146,6 +146,18 @@
       ]
     },
 
+    "3011": {
+      "name": "Airbus A320-232",
+      "labels": ["Texture"],
+      "liveries": [
+        {
+          "name": "Cathay Dragon A320-232",
+          "texture": ["https://i.ibb.co/zdkShcv/B-HSU.png"],
+          "credits": "Tide Pods"
+        }
+      ]
+    },
+
     "5551": {
       "name": "Comac C919",
       "labels": ["Texture"],
