@@ -33,6 +33,11 @@
           "name": "Air Vancouver (Visit Vancouver)",
           "texture": ["https://i.ibb.co/B5rTfWsR/C-FPMG-11.png"],
           "credits": "Tide Pods"
+        },
+        {
+          "name": "Air Quebec Normal Livery",
+          "texture": ["https://i.ibb.co/qYmMMvSc/B-18811.png"],
+          "credits": "Tide Pods"
         }
       ]
     },
