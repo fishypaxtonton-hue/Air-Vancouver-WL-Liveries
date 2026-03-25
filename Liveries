@@ -35,6 +35,11 @@
           "credits": "Tide Pods"
         },
         {
+          "name": "Air Quebec (Special Livery",
+          "texture": ["https://i.ibb.co/CpWmSyGV/C-FKPM-1.png"],
+          "credits": "Tide Pods"
+        },
+        {
           "name": "Air Quebec Normal Livery",
           "texture": ["https://i.ibb.co/BVXNqXL4/C-FKPD.png"],
           "credits": "Tide Pods"
